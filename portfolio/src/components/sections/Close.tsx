@@ -85,7 +85,7 @@ export function Close() {
                 
                 <div className="text-center">
                   <a 
-                    href="mailto:walaghazouani.work@gmail.com"
+                    href="mailto:walaghazouani.work@gmail.com?subject=Project%20inquiry%20from%20your%20portfolio&body=Hi%20Wala%20Eddine%2C%0A%0AI%27d%20like%20to%20discuss%20a%20project.%0A%0AWhat%20I%20need%3A%20%0AMy%20timeline%3A%20%0AMy%20budget%20range%3A%20%0A%0AThanks%2C%0A"
                     className="text-[var(--color-steel)] hover:text-[var(--color-ink)] transition-colors"
                   >
                     Or email me directly → walaghazouani.work@gmail.com
